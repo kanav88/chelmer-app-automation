@@ -1,2 +1,2 @@
-# chelmer-app-automation
+# sample
 automation testing
